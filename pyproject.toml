@@ -1,0 +1,5 @@
+[tool.flet]
+assets = ["assets/icon.png", "Senai.png"]
+
+[tool.flet.packaging.android]
+icon = "assets/icon.png"
